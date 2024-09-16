@@ -4,6 +4,8 @@ N1:20000
 
 wireguard:20001
 
+ipmi:20002
+
 natfrp:7102
 
 PeerBanHelper:9898
