@@ -4,7 +4,7 @@ N1:20000
 
 wireguard:20001
 
-ipmi:20002
+truenas:20002
 
 natfrp:7102
 
