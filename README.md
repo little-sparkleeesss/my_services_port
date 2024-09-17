@@ -1,8 +1,8 @@
 # port
 
-N1:20000
+openwrt:20000
 
-wireguard:20001
+rdp:20001
 
 truenas:20002
 
